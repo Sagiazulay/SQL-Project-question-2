@@ -1,0 +1,33 @@
+2021-01-04 12:54:57,719 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 12:55:25,698 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 12:55:40,485 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 12:55:50,931 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 12:56:09,465 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:02:59,371 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:03:28,593 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:04:16,434 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:04:16,748 INFO  SqlProject.Program - ******************** System shutdown
+2021-01-04 19:04:20,719 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:04:21,036 INFO  SqlProject.Program - ******************** System shutdown
+2021-01-04 19:14:00,061 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:14:00,358 DEBUG SqlProject.CarsDAO - *ExecuteNonQuery Secceeded!*
+2021-01-04 19:14:00,359 INFO  SqlProject.Program - ******************** System shutdown
+2021-01-04 19:24:50,191 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:24:50,324 INFO  SqlProject.CarsDAO - *A Car Was Added To The Database : Poli, Ibiza, 2008
+2021-01-04 19:24:50,481 DEBUG SqlProject.CarsDAO - *ExecuteNonQuery Secceeded!*
+2021-01-04 19:24:50,482 INFO  SqlProject.Program - ******************** System shutdown
+2021-01-04 19:33:59,883 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:33:59,894 INFO  SqlProject.CarsDAO - *A Car Was Deleted From The Database : Car Number - 8
+2021-01-04 19:50:18,775 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:50:18,784 INFO  SqlProject.CarsDAO - *A Car Was Deleted From The Database : Car Number - 8
+2021-01-04 19:53:10,351 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:55:02,651 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:56:21,794 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 19:59:07,257 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 20:02:33,986 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 20:03:28,343 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 20:04:32,029 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 20:05:32,864 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 20:50:33,655 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 21:06:53,280 INFO  SqlProject.Program - ******************** System startup
+2021-01-04 21:07:37,658 INFO  SqlProject.Program - ******************** System startup
